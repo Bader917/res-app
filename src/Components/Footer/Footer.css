@@ -1,0 +1,86 @@
+/* Start Style Footer */
+.footer {
+    background-color: #a82d49;
+    padding: 10px 0 30px 0;
+}
+
+.text-center {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-st {
+    padding-top: 20px;
+}
+
+.footer-st a{
+    padding: 0 30px 0 0;
+    font-size: 17px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.footer-st a:hover {
+    color: #216ad9;
+}
+
+.footer-social {
+    padding-top: 15px;
+}
+.fa-spin {
+    animation-duration: 1.5s;
+}
+
+.opend {
+    padding: 0 30px 0 0;
+    color: #fff;
+    font-size: 25px;
+    transition: 0.5s all ease;
+}
+
+.opend .fa-facebook:hover {
+    color: #1B74E4;
+    cursor: pointer;
+}
+
+
+.opend .fa-twitter:hover {
+    color: #1d9bf0;
+    cursor: pointer;
+}
+
+
+.opend .fa-linkedin:hover {
+    color: #0a66c2;
+    cursor: pointer;
+}
+
+
+.opend .fa-github:hover {
+    color: #ff68ff;
+    cursor: pointer;
+}
+
+
+.opend .fa-instagram:hover {
+    color: #f70475;
+    cursor: pointer;
+}
+
+.copy-right {
+    position: relative;
+    padding-bottom: 100px;
+}
+
+.copy-right p {
+    font-size: 17px;
+    color: #fff;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+/* End Style Footer */
