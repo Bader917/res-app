@@ -57,3 +57,12 @@ Nav .phone:hover {
     box-shadow: none !important;
 }
 /* Start Style Navbar */
+
+
+/* Media Query Settings For Mobile */
+@media only screen and (max-width: 1020px) {
+    .nav-link {
+        padding: 25px 10px !important;
+        font-size: 30px !important;
+    }
+}
